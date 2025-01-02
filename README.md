@@ -1,4 +1,4 @@
-# Term_Project_game
+# TermProject_Game
 
 ### Introduction to the Project ###
 Github link to see the project files: https://github.com/Chan661/TP_game
