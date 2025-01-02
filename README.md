@@ -1,6 +1,7 @@
-# TP_game
+# Term_Project_game
 
 ### Introduction to the Project ###
+Github link to see the project files: https://github.com/Chan661/TP_game
 
 Project Name: Play this VolleyBall Game!!
 -----------------------------------------------------
